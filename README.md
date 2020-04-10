@@ -1,2 +1,3 @@
 # covid-19-Mexico
-Jupyter notebook con simulaciones de una epidemia en una red aleatoria
+
+Notebook Jupyter con código en `Python` y simulaciones de una epidemia en una red aleatoria. El modelo se describe en el archivo Descripción_del_Modelo.md.
